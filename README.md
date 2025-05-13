@@ -1,5 +1,7 @@
 📚 Learning Journey: Python & JavaScript
 
+Hello, I'm Kenji D. Sakamoto.
+
 Welcome to my GitHub space where I document and share my progress in learning Python and JavaScript!
 
 🚀 What I'm Working On
