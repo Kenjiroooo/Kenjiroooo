@@ -19,9 +19,12 @@ I’ve earned the **Responsive Web Design** certificate from [freeCodeCamp](http
 
 - HTML & CSS fundamentals  
 - Flexbox and Grid layout techniques  
-- Building responsive, accessible web pages  
+- Building responsive, accessible web pages
+
+I studied the fundamentals of Python through freeCodeCamp’s Scientific Computing with Python course, where I learned core programming concepts such as variables, loops, functions, and data structures. By completing hands-on coding challenges and projects, I earned the official freeCodeCamp certification, demonstrating my ability to apply Python for problem-solving and basic scientific computing tasks.I studied the fundamentals of Python through freeCodeCamp’s Scientific Computing with Python course, where I learned core programming concepts such as variables, loops, functions, and data structures. By completing hands-on coding challenges and projects, I earned the official freeCodeCamp certification, demonstrating my ability to apply Python for problem-solving and basic scientific computing tasks.
 
 freeCodeCamp Certification: https://www.freecodecamp.org/certification/kenjiro/responsive-web-design
+freeCodeCamp Certification: https://www.freecodecamp.org/certification/kenjiro/scientific-computing-with-python-v7
 
 ---
 
