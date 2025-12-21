@@ -8,11 +8,13 @@ Welcome to my GitHub space where I document and share my progress in learning Py
 - Building foundational skills in Python (scripting, problem-solving, automation).
 - Exploring JavaScript for web interactivity and dynamic behavior.
 - Creating small projects to apply what I learn and build a portfolio.
+- Building Arduino's Projects
 
 🧠 Goals
 - Gain proficiency in modern web and software development.
 - Combine Python and JavaScript skills for full-stack potential.
 - Continuously learn and improve through practice and real-world projects.
+- Documenting my school learning journney about software and  also hardware robotics proggramming 
 
 🏅 Certification
 I’ve earned the **Responsive Web Design** certificate from [freeCodeCamp](https://www.freecodecamp.org/), which covers:
