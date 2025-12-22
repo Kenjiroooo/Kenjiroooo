@@ -2,7 +2,7 @@
 
 Hello, I'm Kenji D. Sakamoto.
 
-Welcome to my GitHub space where I document and share my progress in learning Python and JavaScript!
+Welcome to my GitHub space where I document and share my progress in learning Python, Arduino, and JavaScript!
 
 🚀 What I'm Working On
 - Building foundational skills in Python (scripting, problem-solving, automation).
