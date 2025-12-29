@@ -16,14 +16,21 @@ Welcome to my GitHub space where I document and share my progress in learning Py
 - Continuously learn and improve through practice and real-world projects.
 - Documenting my school learning journney about software and  also hardware robotics proggramming 
 
-🏅 Certification
-I’ve earned the **Responsive Web Design** certificate from [freeCodeCamp](https://www.freecodecamp.org/), which covers:
+🏅 Certifications I’ve Earned
 
-- HTML & CSS fundamentals  
-- Flexbox and Grid layout techniques  
-- Building responsive, accessible web pages
+I’ve earned the Responsive Web Design certificate from freeCodeCamp, which covers:
 
-I studied the fundamentals of Python through freeCodeCamp’s Scientific Computing with Python course, where I learned core programming concepts such as variables, loops, functions, and data structures. By completing hands-on coding challenges and projects, I earned the official freeCodeCamp certification, demonstrating my ability to apply Python for problem-solving and basic scientific computing tasks.I studied the fundamentals of Python through freeCodeCamp’s Scientific Computing with Python course, where I learned core programming concepts such as variables, loops, functions, and data structures. By completing hands-on coding challenges and projects, I earned the official freeCodeCamp certification, demonstrating my ability to apply Python for problem-solving and basic scientific computing tasks.
+-HTML & CSS fundamentals
+-Flexbox and Grid layout techniques
+-Building responsive and accessible web pages
+
+I’ve also earned the Scientific Computing with Python certificate from freeCodeCamp, which focuses on:
+
+-Python fundamentals and problem-solving
+-Working with data structures, loops, and functions
+-Basic data analysis, algorithms, and computational thinking
+
+This shows my skills in both front-end web development and Python programming for data-focused tasks.
 
 freeCodeCamp Certification: https://www.freecodecamp.org/certification/kenjiro/responsive-web-design
 
