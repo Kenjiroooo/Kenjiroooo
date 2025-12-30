@@ -38,4 +38,4 @@ freeCodeCamp Certification: https://www.freecodecamp.org/certification/kenjiro/s
 
 ---
 
-Thanks for visiting! Feel free to check out my repos.
+Thanks for visiting! Feel free to check out my repos..
