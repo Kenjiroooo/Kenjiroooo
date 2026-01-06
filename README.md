@@ -1,6 +1,6 @@
 📚 Learning Journey: Python & JavaScript & C++/Arduino
 
-Hello, I'm Kenji D. Sakamoto..
+Hello, I'm Kenji D. Sakamoto.
 
 Welcome to my GitHub space where I document and share my progress in learning Python, Arduino, and JavaScript!
 
