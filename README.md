@@ -1,4 +1,4 @@
-📚 Learning Journey: Python & JavaScript & C++/Arduino
+📚 Learning Journey: Software Development & Embedded System
 
 Hello, I'm Kenji D. Sakamoto.
 
