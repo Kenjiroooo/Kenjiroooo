@@ -53,6 +53,5 @@ Scientific Computing with Python — freeCodeCamp
 * Embedded Systems and Robotics Experiments
 * Web-Based Development Projects
 
----
 
 Thank you for visiting my GitHub profile. Feel free to explore my repositories and follow my progress as I continue learning, building, and innovating through AI, software development, robotics, and engineering projects.
