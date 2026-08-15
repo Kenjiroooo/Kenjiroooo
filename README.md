@@ -95,43 +95,9 @@ I use this space to document my journey through **Artificial Intelligence, Softw
 
 ## `05 // CERTIFICATIONS`
 
-* **Responsive Web Design** (freeCodeCamp)
-* **Scientific Computing with Python** (freeCodeCamp)
-
----
-
-## `06 // PORTFOLIO GALLERY`
-
-<div align="center">
-
-*A glimpse into my projects and workspace. Click any image to visit my live portfolio.*
-
-<a href="https://kenjisakamoto.me">
-  <img src="gallery_workspace_1786817614946.jpg" alt="Workspace" width="48%" style="margin: 1%; border-radius: 8px;" />
-</a>
-<a href="https://kenjisakamoto.me">
-  <img src="gallery_robotics_1786817637803.jpg" alt="Robotics" width="48%" style="margin: 1%; border-radius: 8px;" />
-</a>
-
-<br>
-
-<a href="https://kenjisakamoto.me">
-  <img src="gallery_coding_1786817911607.jpg" alt="Coding" width="48%" style="margin: 1%; border-radius: 8px;" />
-</a>
-<a href="https://kenjisakamoto.me">
-  <img src="gallery_3dprinting_1786817705625.jpg" alt="3D Printing" width="48%" style="margin: 1%; border-radius: 8px;" />
-</a>
-
-<br>
-
-<a href="https://kenjisakamoto.me">
-  <img src="gallery_presentation_1786817666692.jpg" alt="Presentation" width="48%" style="margin: 1%; border-radius: 8px;" />
-</a>
-<a href="https://kenjisakamoto.me">
-  <img src="gallery_teamwork_1786817878034.jpg" alt="Teamwork" width="48%" style="margin: 1%; border-radius: 8px;" />
-</a>
-
-</div>
+* **Scientific Computing with Python** (freeCodeCamp) - 2025
+* **Responsive Web Design** (freeCodeCamp) - 2026
+* * **Python** (freeCodeCamp) - 2026
 
 ---
 
