@@ -186,37 +186,7 @@ A collection of experiments involving microcontrollers, Raspberry Pi, sensors, m
 
 ---
 
-## `06 // LEARNING ROADMAP`
-
-```text
-                    ┌───────────────────┐
-                    │   COMPUTER        │
-                    │   ENGINEERING     │
-                    └─────────┬─────────┘
-                              │
-             ┌────────────────┼────────────────┐
-             ▼                ▼                ▼
-        ┌──────────┐    ┌──────────┐    ┌──────────┐
-        │    AI    │    │ SOFTWARE │    │ EMBEDDED │
-        └────┬─────┘    └────┬─────┘    └────┬─────┘
-             │               │               │
-             ▼               ▼               ▼
-        Machine          Web Apps        Microcontrollers
-        Learning         APIs            Raspberry Pi
-        AI APIs          Cloud           Electronics
-             │               │               │
-             └───────────────┼───────────────┘
-                             ▼
-                    ┌───────────────────┐
-                    │    ROBOTICS &     │
-                    │   INTELLIGENT     │
-                    │     SYSTEMS       │
-                    └───────────────────┘
-```
-
----
-
-## `07 // GOALS`
+## `06 // GOALS`
 
 ```diff
 + Become proficient in AI and software engineering
@@ -229,7 +199,7 @@ A collection of experiments involving microcontrollers, Raspberry Pi, sensors, m
 
 ---
 
-## `08 // PORTFOLIO`
+## `07 // PORTFOLIO`
 
 <div align="center">
 
@@ -254,33 +224,6 @@ A collection of experiments involving microcontrollers, Raspberry Pi, sensors, m
 > **Note:** GitHub README files don't support arbitrary `<iframe>` embeds, so the live website can't be rendered directly inside the README. The panel above acts as a clickable gateway to your portfolio instead.
 
 ---
-
-## `09 // GITHUB ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KenjiSakamoto&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KenjiSakamoto&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   BUILD → BREAK → LEARN → IMPROVE → REPEAT                 │
-│                                                             │
-│   "Engineering is not about knowing everything.             │
-│    It's about continuously learning how things work."       │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
 
 ### `> Thanks for visiting my GitHub.`
 
