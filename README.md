@@ -1,13 +1,23 @@
-<!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
-<table>
+<!-- =========================================================
+     RETRO HEADER
+     ========================================================= -->
+
+<img src="./assets/retro-header.svg" width="100%" alt="Kenji D. Sakamoto Retro GitHub Header"/>
+
+<br>
+
+<!-- CONTACT BAR -->
+
+<table width="90%">
 <tr>
-<td width="100%" align="center">
+<td align="left">
+<code>◉ github.com/YOUR_USERNAME</code>
+</td>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6A0DAD&height=170&section=header&text=KENJI%20D.%20SAKAMOTO&fontSize=34&fontColor=FFFFFF&fontAlignY=50&desc=WELCOME%20TO%20MY%20GITHUB%20PROFILE&descSize=12&descAlignY=70" width="100%"/>
-
+<td align="right">
+<code>◉ kenjisakamoto@gmail.com</code>
 </td>
 </tr>
 </table>
@@ -16,107 +26,89 @@
 
 <br>
 
-<!-- ===================== INTRO ===================== -->
+<!-- =========================================================
+     INTRO + PIXEL OWL
+     ========================================================= -->
 
 <table>
 <tr>
 
 <td width="62%" valign="top">
 
-### 👋 I'M KENJI!
+<h2>👾 I'M KENJI!</h2>
 
-*Computer Engineering Student | AI • Software • Embedded Systems*
+<p>
+<i>Computer Engineering Student • AI • Software • Embedded Systems</i>
+</p>
+
+<p>
+&gt; <b>SYSTEM STATUS:</b> ONLINE<br>
+&gt; <b>USER:</b> Kenji D. Sakamoto<br>
+&gt; <b>CLASS:</b> Computer Engineering Student<br>
+&gt; <b>LOCATION:</b> Philippines
+</p>
+
+<p>
+I'm a Computer Engineering student at
+<b>Universidad de Dagupan</b> interested in building
+practical systems that combine software, artificial
+intelligence, hardware, and robotics.
+</p>
 
 <br>
 
-I'm a Computer Engineering student at **Universidad de Dagupan**, passionate about building practical systems that combine software, artificial intelligence, hardware, and robotics.
+<pre>
+┌─────────────────────────────────────┐
+│        CURRENT SYSTEM TASKS         │
+├─────────────────────────────────────┤
+│ [+] AI APPLICATION DEVELOPMENT      │
+│ [+] WEB SOFTWARE DEVELOPMENT        │
+│ [+] EMBEDDED SYSTEMS                │
+│ [+] ROBOTICS & AUTOMATION           │
+│ [+] IoT EXPERIMENTATION             │
+│ [+] HARDWARE / SOFTWARE INTEGRATION │
+└─────────────────────────────────────┘
+</pre>
 
 <br>
 
-- 🎓 Computer Engineering student at **Universidad de Dagupan**
-- 🤖 Interested in **Artificial Intelligence & Machine Learning**
-- 💻 Building **web applications and software systems**
-- 🔌 Working with **Raspberry Pi, Arduino & microcontrollers**
-- 🦾 Exploring **robotics, automation & IoT**
-- 🚀 Currently developing **AI-powered applications**
-- 📚 Continuously learning through projects and experimentation
-- 🌐 Check out my **[Portfolio](https://udd-cpe-blog-sakamoto.web.app/)** for more details
+<p>
+🎓 Computer Engineering @ Universidad de Dagupan<br>
+🤖 Artificial Intelligence & Machine Learning<br>
+💻 Software & Web Development<br>
+🔌 Raspberry Pi / Arduino / Microcontrollers<br>
+🦾 Robotics & Automation<br>
+🚀 Currently building AI-powered systems
+</p>
+
+<p>
+<a href="https://udd-cpe-blog-sakamoto.web.app/">
+<img src="https://img.shields.io/badge/◉_PORTFOLIO-6A0DAD?style=for-the-badge&logoColor=white"/>
+</a>
+</p>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=8A2BE2&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=8A2BE2&style=flat-square"/>
 
 </td>
 
 <td width="38%" align="center" valign="middle">
 
-<br>
+<!-- Replace with your pixel-art owl -->
 
-<img src="YOUR_OWL_IMAGE_URL" width="300"/>
+<img src="./assets/pixel-owl.png" width="300" alt="Pixel Owl"/>
 
-</td>
+<br><br>
 
-</tr>
-</table>
-
-<br>
-
-<!-- ===================== LEARNING JOURNEY ===================== -->
-
-## 📚 Learning Journey
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🤖 Artificial Intelligence
-
-- AI-powered applications
-- Generative AI
-- Machine Learning fundamentals
-- AI APIs
-- Intelligent systems
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💻 Software Development
-
-- Full-Stack Web Development
-- JavaScript / TypeScript
-- Python
-- REST APIs
-- Firebase & Cloud Services
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔌 Embedded Systems
-
-- Raspberry Pi
-- Arduino
-- ESP32
-- Microcontrollers
-- IoT systems
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🦾 Robotics
-
-- Sensors & actuators
-- Servo systems
-- Motor control
-- Automation
-- Hardware/software integration
+<pre>
+  ╔══════════════════╗
+  ║  OWL.EXE         ║
+  ║                  ║
+  ║  STATUS: ACTIVE  ║
+  ║  MODE: BUILD     ║
+  ╚══════════════════╝
+</pre>
 
 </td>
 
@@ -125,59 +117,163 @@ I'm a Computer Engineering student at **Universidad de Dagupan**, passionate abo
 
 <br>
 
-<!-- ===================== TECH STACK ===================== -->
+<!-- =========================================================
+     LEARNING JOURNEY
+     ========================================================= -->
 
-## 🛠️ Technologies & Tools
+<h2>📚 LEARNING JOURNEY</h2>
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+<pre>
+┌──────────────────────────────┐
+│ 🤖 AI / MACHINE LEARNING     │
+├──────────────────────────────┤
+│ > Generative AI              │
+│ > AI APIs                    │
+│ > Machine Learning           │
+│ > Intelligent Applications   │
+│ > AI-assisted Development    │
+└──────────────────────────────┘
+</pre>
+
+</td>
+
+<td width="50%" valign="top">
+
+<pre>
+┌──────────────────────────────┐
+│ 💻 SOFTWARE DEVELOPMENT      │
+├──────────────────────────────┤
+│ > Python                     │
+│ > JavaScript / TypeScript    │
+│ > Web Applications           │
+│ > REST APIs                  │
+│ > Firebase / Cloud           │
+└──────────────────────────────┘
+</pre>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<pre>
+┌──────────────────────────────┐
+│ 🔌 EMBEDDED SYSTEMS          │
+├──────────────────────────────┤
+│ > Raspberry Pi               │
+│ > Arduino                   │
+│ > ESP32                     │
+│ > Microcontrollers          │
+│ > IoT Systems               │
+└──────────────────────────────┘
+</pre>
+
+</td>
+
+<td width="50%" valign="top">
+
+<pre>
+┌──────────────────────────────┐
+│ 🦾 ROBOTICS                  │
+├──────────────────────────────┤
+│ > Sensors & Actuators        │
+│ > Servo Systems              │
+│ > Motor Control              │
+│ > Automation                 │
+│ > Hardware / Software        │
+└──────────────────────────────┘
+</pre>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- =========================================================
+     TECH STACK
+     ========================================================= -->
+
+<h2>🛠️ TECH STACK</h2>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,html,css,react,nextjs,nodejs,firebase,git,github,linux,arduino,raspberrypi" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,html,css,react,nextjs,nodejs,firebase,git,github,linux,arduino,raspberrypi"/>
 
 </p>
 
 <br>
 
-<!-- ===================== CURRENT PROJECTS ===================== -->
+<pre align="center">
+╔══════════════════════════════════════════════════════════╗
+║ PYTHON • C/C++ • JAVASCRIPT • TYPESCRIPT • HTML • CSS   ║
+║ FIREBASE • NEXT.JS • NODE.JS • GIT • LINUX             ║
+║ ARDUINO • RASPBERRY PI • ESP32 • IoT • ROBOTICS        ║
+╚══════════════════════════════════════════════════════════╝
+</pre>
 
-## 🚀 Current Projects
+<br>
 
-<table>
+<!-- =========================================================
+     PROJECTS
+     ========================================================= -->
+
+<h2>🚀 CURRENT PROJECTS</h2>
+
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
-### 🦉 OWL
+<h3>🦉 OWL</h3>
 
-**Optimized Workflow for Learners**
+<p>
+<b>Optimized Workflow for Learners</b>
+</p>
 
+<p>
 AI-powered student assistance and guidance kiosk system.
+</p>
 
-**Focus:**
-
-- AI-powered student assistance
-- Campus navigation
-- Academic guidance
-- Student information
-- Campus services
-- Raspberry Pi kiosk
-- Firebase backend
+<pre>
+SYSTEM
+├── AI Assistance
+├── Student Information
+├── Campus Navigation
+├── Academic Guidance
+├── Campus Services
+├── Raspberry Pi
+└── Firebase
+</pre>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🤖 AI Study Buddy
+<h3>🤖 AI STUDY BUDDY</h3>
 
-AI-powered web-based study companion designed to help students learn more effectively.
+<p>
+AI-powered web-based study companion.
+</p>
 
-**Focus:**
-
-- AI summarization
-- Quiz generation
-- Note analysis
-- Explain Like I'm 5
-- AI-assisted learning
-- Modern web technologies
+<pre>
+MODULES
+├── AI Summarization
+├── Quiz Generation
+├── Note Analysis
+├── ELI5 Explanation
+├── AI Study Assistance
+└── Web Application
+</pre>
 
 </td>
 
@@ -186,61 +282,62 @@ AI-powered web-based study companion designed to help students learn more effect
 
 <br>
 
-<!-- ===================== INTERESTS ===================== -->
+<!-- =========================================================
+     INTERESTS
+     ========================================================= -->
 
-## 🤖 Featured Interests
+<h2>🤖 FEATURED INTERESTS</h2>
 
 <p align="center">
 
-`Artificial Intelligence` •
-`Machine Learning` •
-`Software Engineering` •
-`Embedded Systems` •
-`Robotics` •
-`IoT` •
-`Web Development` •
-`Python` •
-`JavaScript` •
-`Raspberry Pi` •
-`Arduino`
+<code>AI</code> <code>Machine Learning</code> <code>Software Engineering</code> <code>Embedded Systems</code> <code>Robotics</code> <code>IoT</code> <code>Web Development</code> <code>Python</code> <code>JavaScript</code> <code>Raspberry Pi</code> <code>Arduino</code>
 
 </p>
 
 <br>
 
-<!-- ===================== CERTIFICATIONS ===================== -->
+<!-- =========================================================
+     CERTIFICATIONS
+     ========================================================= -->
 
-## 🏅 Certifications
+<h2>🏅 CERTIFICATIONS</h2>
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
-### Responsive Web Design
-
-**freeCodeCamp**
-
-- HTML & CSS Fundamentals
-- Flexbox
-- CSS Grid
-- Responsive Design
-- Accessible Web Design
+<pre>
+┌──────────────────────────────┐
+│ RESPONSIVE WEB DESIGN        │
+├──────────────────────────────┤
+│ freeCodeCamp                 │
+│                              │
+│ > HTML & CSS                 │
+│ > Flexbox                    │
+│ > CSS Grid                   │
+│ > Responsive Design          │
+│ > Accessibility              │
+└──────────────────────────────┘
+</pre>
 
 </td>
 
 <td width="50%" valign="top">
 
-### Scientific Computing with Python
-
-**freeCodeCamp**
-
-- Python Programming
-- Data Structures
-- Functions
-- Problem Solving
-- Computational Thinking
-- Basic Data Analysis
+<pre>
+┌──────────────────────────────┐
+│ SCIENTIFIC COMPUTING         │
+├──────────────────────────────┤
+│ freeCodeCamp                 │
+│                              │
+│ > Python                     │
+│ > Data Structures            │
+│ > Functions                  │
+│ > Problem Solving            │
+│ > Data Analysis              │
+└──────────────────────────────┘
+</pre>
 
 </td>
 
@@ -249,65 +346,83 @@ AI-powered web-based study companion designed to help students learn more effect
 
 <br>
 
-<!-- ===================== GITHUB STATS ===================== -->
+<!-- =========================================================
+     GITHUB STATS
+     ========================================================= -->
 
-## 📊 GitHub Statistics
+<h2>📊 GITHUB SYSTEM MONITOR</h2>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=midnight-purple&hide_border=true" height="170"/>
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </p>
 
 <br>
 
-<!-- ===================== GOALS ===================== -->
+<!-- =========================================================
+     GOALS
+     ========================================================= -->
 
-## 🎯 Goals
+<h2>🎯 MISSION OBJECTIVES</h2>
 
-- Become proficient in **AI and software engineering**
-- Build intelligent solutions combining **hardware and software**
-- Gain real-world experience through **projects and research**
-- Develop practical **embedded and robotic systems**
-- Continuously improve through experimentation and learning
-- Create technologies that solve **real-world problems**
+<pre>
+┌───────────────────────────────────────────────────────┐
+│ [01] Become proficient in AI & Software Engineering  │
+│ [02] Build intelligent hardware/software systems     │
+│ [03] Develop practical embedded & robotic systems   │
+│ [04] Gain real-world engineering experience         │
+│ [05] Continuously learn and experiment              │
+│ [06] Build technology that solves real problems     │
+└───────────────────────────────────────────────────────┘
+</pre>
 
 <br>
 
-<!-- ===================== CONNECT ===================== -->
+<!-- =========================================================
+     CONNECT
+     ========================================================= -->
 
-## 🌐 Connect With Me
+<h2>🌐 CONNECT</h2>
 
 <p align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://udd-cpe-blog-sakamoto.web.app/">
-<img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-6A0DAD?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </p>
 
 <br>
 
-<!-- ===================== FOOTER ===================== -->
+<!-- =========================================================
+     FOOTER
+     ========================================================= -->
 
 <div align="center">
 
-### ✨ Thanks for visiting my GitHub!
-
-*Learning • Building • Experimenting • Innovating*
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=100&section=footer"/>
+<pre>
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║       > THANK YOU FOR VISITING MY PROFILE_              ║
+║                                                          ║
+║       LEARN • BUILD • EXPERIMENT • INNOVATE             ║
+║                                                          ║
+║       SYSTEM STATUS: ████████████████ ONLINE            ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+</pre>
 
 </div>
