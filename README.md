@@ -97,7 +97,7 @@ I use this space to document my journey through **Artificial Intelligence, Softw
 
 * **Scientific Computing with Python** (freeCodeCamp) - 2025
 * **Responsive Web Design** (freeCodeCamp) - 2026
-* * **Python** (freeCodeCamp) - 2026
+* **Python** (freeCodeCamp) - 2026
 
 ---
 
