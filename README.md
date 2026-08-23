@@ -48,8 +48,8 @@ I use this space to document my journey through **Artificial Intelligence, Softw
     <td width="50%">
       <h3>🔌 Embedded Systems</h3>
       <ul>
-        <li>Arduino & Raspberry Pi</li>
-        <li>Microcontrollers</li>
+        <li>Arduino, ESP32 & Raspberry Pi</li>
+        <li>Microcontrollers & Microprocessors</li>
         <li>IoT networks</li>
       </ul>
     </td>
