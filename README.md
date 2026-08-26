@@ -1,5 +1,11 @@
 <div align="center">
 
+<!-- Animated Pixel-Art Coder -->
+
+<img src="./assets/coder.gif" width="650" alt="Kenji coding animation">
+
+<br>
+
 # KENJI D. SAKAMOTO
 
 ### Computer Engineering Student · AI · Software · Embedded Systems
@@ -9,10 +15,11 @@ Building practical systems where **software, AI, and hardware meet.**
 <br>
 
 <a href="https://kenjisakamoto.me">
-  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://github.com/">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -21,32 +28,32 @@ Building practical systems where **software, AI, and hardware meet.**
 
 ## About
 
-I'm **Kenji D. Sakamoto**, a Computer Engineering student at **Universidad de Dagupan** with a strong interest in building intelligent and practical technology.
+I'm **Kenji D. Sakamoto**, a Computer Engineering student at **Universidad de Dagupan** interested in building practical systems that combine software, artificial intelligence, and hardware.
 
-My work focuses on **Artificial Intelligence, Software Engineering, Embedded Systems, IoT, and Robotics**. I enjoy working across both software and hardware—from web applications and AI-powered systems to microcontrollers, Raspberry Pi projects, and robotics.
+My work spans **AI, software engineering, embedded systems, IoT, and robotics**. I enjoy developing projects from the application layer all the way down to the hardware, including web applications, AI-powered tools, Raspberry Pi systems, microcontrollers, and robotics.
 
-Currently, I'm focused on expanding my skills through **real-world projects, experimentation, and continuous learning.**
+> **Learning by building. Building by experimenting.**
 
 ---
 
-## What I Work With
+## Areas of Interest
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### AI & Intelligent Systems
+### 🧠 Artificial Intelligence
 
 * AI-powered applications
 * Generative AI APIs
 * AI-assisted workflows
 * Intelligent automation
-* Study & productivity systems
+* Educational AI systems
 
 </td>
 <td width="50%" valign="top">
 
-### Software Engineering
+### 💻 Software Engineering
 
 * Full-stack web development
 * JavaScript & Python
@@ -60,7 +67,7 @@ Currently, I'm focused on expanding my skills through **real-world projects, exp
 <tr>
 <td width="50%" valign="top">
 
-### Embedded Systems
+### 🔌 Embedded Systems
 
 * Arduino
 * ESP32
@@ -71,13 +78,13 @@ Currently, I'm focused on expanding my skills through **real-world projects, exp
 </td>
 <td width="50%" valign="top">
 
-### Robotics
+### 🤖 Robotics
 
 * Robot control systems
 * Computer vision
 * Motors & servos
 * Hardware integration
-* Prototype development
+* Prototyping
 
 </td>
 </tr>
@@ -95,7 +102,7 @@ Currently, I'm focused on expanding my skills through **real-world projects, exp
 
 <br><br>
 
-### Frameworks & Tools
+### Frameworks & Development
 
 <img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,firebase,git,github,vscode" />
 
@@ -111,17 +118,17 @@ Currently, I'm focused on expanding my skills through **real-world projects, exp
 
 ## Featured Projects
 
-### OWL — Optimized Workflow for Learners
+### 🦉 OWL — Optimized Workflow for Learners
 
 **AI-powered student assistance and guidance kiosk system.**
 
-Designed as a campus-based information system that combines a touchscreen kiosk, cloud services, and intelligent assistance to provide students with quick access to academic and campus information.
+A campus information and assistance platform designed to provide students with quick access to academic information, campus navigation, announcements, offices, schedules, and student services.
 
 **Tech:** `AI` `Firebase` `Raspberry Pi` `Web`
 
 ---
 
-### AI Study Buddy
+### 📚 AI Study Buddy
 
 **AI-powered study companion for students.**
 
@@ -131,9 +138,9 @@ A web-based learning assistant designed to help students understand and review t
 
 ---
 
-### Embedded & Robotics Experiments
+### 🤖 Embedded & Robotics Experiments
 
-**Hands-on experiments combining software and hardware.**
+**Hands-on software and hardware experimentation.**
 
 A collection of projects exploring robotics, computer vision, motor control, microcontrollers, Raspberry Pi systems, and hardware integration.
 
@@ -144,7 +151,7 @@ A collection of projects exploring robotics, computer vision, motor control, mic
 ## Certifications
 
 | Certification                    | Platform     | Year |
-| -------------------------------- | ------------ | :--: |
+| :------------------------------- | :----------- | :--: |
 | Scientific Computing with Python | freeCodeCamp | 2025 |
 | Responsive Web Design            | freeCodeCamp | 2026 |
 | Python                           | freeCodeCamp | 2026 |
@@ -153,17 +160,27 @@ A collection of projects exploring robotics, computer vision, motor control, mic
 
 ## Current Focus
 
-```text
-AI & Generative AI
-        ↓
-Full-Stack Development
-        ↓
-Embedded Systems
-        ↓
-IoT & Robotics
-        ↓
-Intelligent Hardware Systems
-```
+<div align="center">
+
+**AI & Generative AI**
+
+↓
+
+**Full-Stack Development**
+
+↓
+
+**Embedded Systems**
+
+↓
+
+**IoT & Robotics**
+
+↓
+
+**Intelligent Hardware Systems**
+
+</div>
 
 I'm continuously building projects that connect these areas together, with the long-term goal of developing **intelligent, reliable, and practical technology systems.**
 
