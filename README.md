@@ -91,63 +91,6 @@ My work spans **AI, software engineering, embedded systems, IoT, and robotics**.
 </table>
 
 ---
-
-## Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,c" />
-
-<br><br>
-
-### Frameworks & Development
-
-<img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,firebase,git,github,vscode" />
-
-<br><br>
-
-### Embedded & Hardware
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-
-</div>
-
----
-
-## Featured Projects
-
-### 🦉 OWL — Optimized Workflow for Learners
-
-**AI-powered student assistance and guidance kiosk system.**
-
-A campus information and assistance platform designed to provide students with quick access to academic information, campus navigation, announcements, offices, schedules, and student services.
-
-**Tech:** `AI` `Firebase` `Raspberry Pi` `Web`
-
----
-
-### 📚 AI Study Buddy
-
-**AI-powered study companion for students.**
-
-A web-based learning assistant designed to help students understand and review their learning materials through summarization, quiz generation, and simplified explanations.
-
-**Tech:** `Gemini AI` `Next.js` `Firebase`
-
----
-
-### 🤖 Embedded & Robotics Experiments
-
-**Hands-on software and hardware experimentation.**
-
-A collection of projects exploring robotics, computer vision, motor control, microcontrollers, Raspberry Pi systems, and hardware integration.
-
-**Tech:** `Python` `C++` `Arduino` `Raspberry Pi` `Computer Vision`
-
----
-
 ## Certifications
 
 <div align="center">
@@ -171,6 +114,30 @@ A collection of projects exploring robotics, computer vision, motor control, mic
 </div>
 
 I'm continuously building projects that connect these areas together, with the long-term goal of developing **intelligent, reliable, and practical technology systems.**
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,c" />
+
+<br><br>
+
+### Frameworks & Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,firebase,git,github,vscode" />
+
+<br><br>
+
+### Embedded & Hardware
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+
+</div>
 
 ---
 
