@@ -150,13 +150,25 @@ A collection of projects exploring robotics, computer vision, motor control, mic
 
 ## Certifications
 
-| Certification                    | Platform     | Year |
-| :------------------------------- | :----------- | :--: |
-| Scientific Computing with Python | freeCodeCamp | 2025 |
-| Responsive Web Design            | freeCodeCamp | 2026 |
-| Python                           | freeCodeCamp | 2026 |
+<div align="center">
 
----
+### Scientific Computing with Python
+
+<img src="./assets/certificate.png" width="700" alt="Scientific Computing with Python Certificate">
+
+<br><br>
+
+### Responsive Web Design
+
+<img src="./assets/certificate2.png" width="700" alt="Responsive Web Design Certificate">
+
+<br><br>
+
+### Python
+
+<img src="./assets/pythoncertificate.png" width="700" alt="Python Certificate">
+
+</div>
 
 I'm continuously building projects that connect these areas together, with the long-term goal of developing **intelligent, reliable, and practical technology systems.**
 
