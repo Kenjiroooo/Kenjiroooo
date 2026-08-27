@@ -158,30 +158,6 @@ A collection of projects exploring robotics, computer vision, motor control, mic
 
 ---
 
-## Current Focus
-
-<div align="center">
-
-**AI & Generative AI**
-
-↓
-
-**Full-Stack Development**
-
-↓
-
-**Embedded Systems**
-
-↓
-
-**IoT & Robotics**
-
-↓
-
-**Intelligent Hardware Systems**
-
-</div>
-
 I'm continuously building projects that connect these areas together, with the long-term goal of developing **intelligent, reliable, and practical technology systems.**
 
 ---
