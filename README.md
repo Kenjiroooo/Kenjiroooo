@@ -134,11 +134,15 @@ I'm continuously building projects that connect these areas together, with the l
 
 <br><br>
 
-### Backend & Cloud
+### Databases
 
-<img src="https://skillicons.dev/icons?i=firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=postgresql,firebase,supabase" />
 
-<br><br>
+</div>
+
+<br>
+
+<div align="center">
 
 ### Embedded & Hardware
 
