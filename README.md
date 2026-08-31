@@ -14,16 +14,6 @@
 
 Building practical systems where **software, AI, and hardware meet.**
 
-<br>
-
-<a href="https://kenjisakamoto.me">
-<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
 </div>
 
 ---
