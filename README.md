@@ -96,23 +96,46 @@ My work spans **AI, software engineering, embedded systems, IoT, and robotics**.
 
 <div align="center">
 
+<table>
+<tr>
+
+<td width="50%" align="center">
+
 ### Scientific Computing with Python
 
-<img src="./assets/certificate.png" width="700" alt="Scientific Computing with Python Certificate">
+<img src="./assets/certificate.png" width="450" alt="Scientific Computing with Python Certificate">
 
-<br><br>
+</td>
+
+<td width="50%" align="center">
 
 ### Responsive Web Design
 
-<img src="./assets/certificate2.png" width="700" alt="Responsive Web Design Certificate">
+<img src="./assets/certificate2.png" width="450" alt="Responsive Web Design Certificate">
 
-<br><br>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
 
 ### Python
 
-<img src="./assets/pythoncertificate.png" width="700" alt="Python Certificate">
+<img src="./assets/pythoncertificate.png" width="450" alt="Python Certificate">
+
+</td>
+
+<td width="50%" align="center">
+
+</td>
+
+</tr>
+</table>
 
 </div>
+
 
 I'm continuously building projects that connect these areas together, with the long-term goal of developing **intelligent, reliable, and practical technology systems.**
 
