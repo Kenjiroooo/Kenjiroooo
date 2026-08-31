@@ -8,6 +8,8 @@
 
 # KENJI D. SAKAMOTO
 
+### 🌐 [www.kenjisakamoto.me](https://www.kenjisakamoto.me)
+
 ### Computer Engineering Student · AI · Software · Embedded Systems
 
 Building practical systems where **software, AI, and hardware meet.**
@@ -136,9 +138,6 @@ My work spans **AI, software engineering, embedded systems, IoT, and robotics**.
 
 </div>
 
-
-I'm continuously building projects that connect these areas together, with the long-term goal of developing **intelligent, reliable, and practical technology systems.**
-
 ---
 
 ## Tech Stack
@@ -161,11 +160,7 @@ I'm continuously building projects that connect these areas together, with the l
 
 <img src="https://skillicons.dev/icons?i=postgresql,firebase,supabase" />
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 ### Embedded & Hardware
 
@@ -185,6 +180,6 @@ I'm continuously building projects that connect these areas together, with the l
 
 <br>
 
-<a href="https://kenjisakamoto.me">kenjisakamoto.me</a>
+🌐 **[www.kenjisakamoto.me](https://www.kenjisakamoto.me)**
 
 </div>
