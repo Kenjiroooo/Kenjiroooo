@@ -58,8 +58,8 @@ My work spans **AI, software engineering, embedded systems, IoT, and robotics**.
 * Full-stack web development
 * JavaScript & Python
 * REST APIs
-* Firebase & cloud services
-* Modern web technologies
+* Database-driven applications
+* Cloud services
 
 </td>
 </tr>
@@ -91,6 +91,7 @@ My work spans **AI, software engineering, embedded systems, IoT, and robotics**.
 </table>
 
 ---
+
 ## Certifications
 
 <div align="center">
@@ -123,13 +124,19 @@ I'm continuously building projects that connect these areas together, with the l
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,c" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,sql" />
 
 <br><br>
 
 ### Frameworks & Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,firebase,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,git,github,vscode" />
+
+<br><br>
+
+### Backend & Cloud
+
+<img src="https://skillicons.dev/icons?i=firebase,supabase" />
 
 <br><br>
 
