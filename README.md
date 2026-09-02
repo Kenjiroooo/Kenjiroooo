@@ -22,7 +22,7 @@ Building practical systems where **software, AI, and hardware meet.**
 
 I'm **Kenji D. Sakamoto**, a Computer Engineering student at **Universidad de Dagupan** interested in building practical systems that combine software, artificial intelligence, and hardware.
 
-My work spans **AI, software engineering, embedded systems, IoT, and robotics**. I enjoy developing projects from the application layer all the way down to the hardware, including web applications, mobile applications, AI-powered tools, Raspberry Pi systems, microcontrollers, and robotics.
+My work spans **AI, software engineering, embedded systems, IoT, and robotics**. I enjoy developing projects from the application layer all the way down to the hardware, including web applications, mobile applications, AI-powered tools, Raspberry Pi systems, Orange Pi systems, microcontrollers, and robotics.
 
 > **Learning by building. Building by experimenting.**
 
@@ -154,12 +154,9 @@ My work spans **AI, software engineering, embedded systems, IoT, and robotics**.
 
 ### Embedded & Hardware
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" height="48" />
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Orange%20Pi-Embedded%20Systems-orange?style=for-the-badge&logo=linux&logoColor=white" alt="Orange Pi" />
-
+<img src="./assets/orangepi.png" width="48" height="48" alt="Orange Pi" />
 
 </div>
 
