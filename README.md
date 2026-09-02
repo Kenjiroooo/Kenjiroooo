@@ -160,6 +160,7 @@ My work spans **AI, software engineering, embedded systems, IoT, and robotics**.
 
 <img src="https://img.shields.io/badge/Orange%20Pi-Embedded%20Systems-orange?style=for-the-badge&logo=linux&logoColor=white" alt="Orange Pi" />
 
+
 </div>
 
 ---
