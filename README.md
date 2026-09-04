@@ -156,7 +156,7 @@ My work spans **AI, software engineering, embedded systems, IoT, and robotics**.
 
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" height="48" />
 
-<img src="./assets/orangepi.jpg" width="48" height="48" alt="Orange Pi" />
+<img src="./assets/orangepi.png" width="48" height="48" alt="Orange Pi" />
 
 </div>
 
