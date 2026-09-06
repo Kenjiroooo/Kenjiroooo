@@ -6,9 +6,9 @@
 
 <br>
 
-<!-- Name → Title in the SAME typing area -->
+<!-- Animated Name and Title -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&height=80&lines=KENJI+D.+SAKAMOTO;Computer+Engineering+Student+%C2%B7+AI+%C2%B7+Software+%C2%B7+Embedded+Systems" alt="Typing introduction">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=850&height=70&lines=KENJI+D.+SAKAMOTO;Computer+Engineering+%C2%B7+AI+%C2%B7+Software+%C2%B7+Embedded" alt="Typing introduction">
 
 <br>
 
