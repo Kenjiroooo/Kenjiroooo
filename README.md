@@ -1,27 +1,18 @@
 <div align="center">
 
-<!-- Animated Pixel-Art Coder -->
-
 <img src="./assets/coder.gif" width="650" alt="Kenji coding animation">
 
 <br>
 
-<!-- Typing Name -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=700&lines=%3E+KENJI+D.+SAKAMOTO" alt="Kenji D. Sakamoto">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&width=700&lines=KENJI+D.+SAKAMOTO" alt="Kenji D. Sakamoto">
-
-<!-- Typing Subtitle -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student+%C2%B7+AI+%C2%B7+Software+%C2%B7+Embedded+Systems" alt="Computer Engineering Student">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=850&lines=%3E+Computer+Engineering+Student+%C2%B7+AI+%C2%B7+Software+%C2%B7+Embedded+Systems" alt="Computer Engineering Student">
 
 <br>
 
 Building practical systems where **software, AI, and hardware meet.**
 
 </div>
-
----
-
 
 ---
 
