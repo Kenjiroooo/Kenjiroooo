@@ -1,12 +1,14 @@
 <div align="center">
 
+<!-- Animated Pixel-Art Coder -->
+
 <img src="./assets/coder.gif" width="650" alt="Kenji coding animation">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=700&lines=%3E+KENJI+D.+SAKAMOTO" alt="Kenji D. Sakamoto">
+<!-- Name → Title in the SAME typing area -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=850&lines=%3E+Computer+Engineering+Student+%C2%B7+AI+%C2%B7+Software+%C2%B7+Embedded+Systems" alt="Computer Engineering Student">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&height=80&lines=KENJI+D.+SAKAMOTO;Computer+Engineering+Student+%C2%B7+AI+%C2%B7+Software+%C2%B7+Embedded+Systems" alt="Typing introduction">
 
 <br>
 
