@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Animated Pixel-Art Coder -->
 
 <img src="./assets/coder.gif" width="650" alt="Kenji coding animation">
 
