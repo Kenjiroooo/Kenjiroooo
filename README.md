@@ -14,7 +14,7 @@ Building practical systems where **software, AI, and hardware meet.**
 
 ---
 
-## About
+# About
 
 I'm **Kenji D. Sakamoto**, a Computer Engineering student at **Universidad de Dagupan** interested in building practical systems that combine software, artificial intelligence, and hardware.
 
@@ -24,7 +24,7 @@ My work spans **AI, software engineering, embedded systems, IoT, and robotics**.
 
 ---
 
-## Certifications
+# Certifications
 
 <div align="center">
 
@@ -70,33 +70,35 @@ My work spans **AI, software engineering, embedded systems, IoT, and robotics**.
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 <div align="center">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,dart,html,css,cpp,sql" />
-
-<br><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,dart,html,css,cpp,sql&perline=7" />
+</p>
 
 ### Frameworks & Development
 
-<img src="https://skillicons.dev/icons?i=flutter,nodejs,react,git,github,vscode" />
-
-<br><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,nodejs,react,git,github,vscode&perline=6" />
+</p>
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=postgresql,firebase,supabase" />
-
-<br><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,firebase,supabase&perline=3" />
+</p>
 
 ### Embedded & Hardware
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" height="48" />
-
-<img src="./assets/orangepi.png" width="48" height="48" alt="Orange Pi" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" height="48" />
+  &nbsp;&nbsp;
+  <img src="./assets/orangepi.png" width="48" height="48" alt="Orange Pi" />
+</p>
 
 </div>
 
