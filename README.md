@@ -1,6 +1,5 @@
 <div align="center">
 
-
 <img src="./assets/coder.gif" width="650" alt="Kenji coding animation">
 
 <br>
@@ -83,7 +82,7 @@ My work spans **AI, software engineering, embedded systems, IoT, and robotics**.
 
 ### Frameworks & Development
 
-<img src="https://skillicons.dev/icons?i=flutter,nodejs,nextjs,react,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=flutter,nodejs,react,git,github,vscode" />
 
 <br><br>
 
