@@ -76,33 +76,28 @@ My work spans **AI, software engineering, embedded systems, IoT, and robotics**.
 
 ### Languages
 
-<p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=python,js,dart,html,css,cpp,sql&perline=7"
-    style="position: relative; left: 3px;"
-  />
-</p>
-
+<div style="display: flex; justify-content: center; width: 100%;">
+  <img src="https://skillicons.dev/icons?i=python,js,dart,html,css,cpp,sql&perline=7" alt="Languages" />
+</div>
 
 ### Frameworks & Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,nodejs,react,git,github,vscode&perline=6" />
-</p>
+<div style="display: flex; justify-content: center; width: 100%;">
+  <img src="https://skillicons.dev/icons?i=flutter,nodejs,react,git,github,vscode&perline=6" alt="Frameworks and Development" />
+</div>
 
 ### Databases
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,firebase,supabase&perline=3" />
-</p>
+<div style="display: flex; justify-content: center; width: 100%;">
+  <img src="https://skillicons.dev/icons?i=postgresql,firebase,supabase&perline=3" alt="Databases" />
+</div>
 
 ### Embedded & Hardware
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" height="48" />
-  &nbsp;&nbsp;
+<div style="display: flex; justify-content: center; align-items: center; gap: 8px; width: 100%;">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" height="48" alt="Arduino and Raspberry Pi" />
   <img src="./assets/orangepi.png" width="48" height="48" alt="Orange Pi" />
-</p>
+</div>
 
 </div>
 
