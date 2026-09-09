@@ -76,7 +76,7 @@ My work spans **AI, software engineering, embedded systems, IoT, and robotics**.
 
 ### Languages
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,dart,html,css,cpp,sql&perline=7" style="margin-left: 3px;" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,dart,html,css,cpp,sql&perline=7" style="margin-left: 20px;" /> </p>
 
 ### Frameworks & Development
 
