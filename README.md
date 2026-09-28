@@ -24,6 +24,7 @@ My work spans **AI, software engineering, embedded systems, IoT, and robotics**.
 
 ---
 
+
 # Certifications
 
 <div align="center">
@@ -61,13 +62,16 @@ My work spans **AI, software engineering, embedded systems, IoT, and robotics**.
 
 <td width="50%" align="center">
 
+### Python Cisco
+
+<img src="./assets/pythoncisco.png" width="450" alt="Python Cisco Certificate">
+
 </td>
 
 </tr>
 </table>
 
 </div>
-
 ---
 
 # Tech Stack
