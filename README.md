@@ -72,6 +72,7 @@ My work spans **AI, software engineering, embedded systems, IoT, and robotics**.
 </table>
 
 </div>
+
 ---
 
 # Tech Stack
